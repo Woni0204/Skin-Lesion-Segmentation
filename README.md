@@ -4,7 +4,7 @@ This repository compiles a collection of implementations for skin lesion segment
 
 
 ## Paper
-| Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
+| Title| Abbreviation| Published | Dataset| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
 |EGE-UNet: an Efficient Group Enhanced UNet for skin lesion segmentation|EGE-UNet|MICCAI 2023|ISIC 2017<br>ISIC 2018|[Code](https://github.com/JCruan519/EGE-UNet)|[Paper](https://arxiv.org/pdf/2307.08473)|
 |LB-UNet: A Lightweight Boundary-assisted UNet for Skin Lesion Segmentation|LB-UNet|MICCAI 2024|ISIC 2017<br>ISIC 2018|[Code](https://github.com/xuxuxuxuxuxjh/LB-UNet)|[Paper](https://papers.miccai.org/miccai-2024/paper/2135_paper.pdf)|
